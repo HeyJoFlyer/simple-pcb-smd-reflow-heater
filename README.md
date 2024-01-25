@@ -13,9 +13,9 @@ The Aluminum PCB Reflow Heater is a compact and efficient device designed for so
 
 ## Specifications
 
-- **Input Voltage:** DC 24V-30V (Dependent on power and temperature)
+- **Input Voltage:** DC or AC 24V-30V (Dependent on power and temperature)
 - **Power Consumption:** 60 - 100 W (Dependent on temperature)
-- **Heating element resistance:** ≈3.4
+- **Heating element resistance:** ≈3.4Ω
 - **Temperature Range:** Adjustable based on user preferences (typically 150°C to 250°C)
 - **Heating Element:** Aluminum PCB with embedded heating elements
 
@@ -23,10 +23,10 @@ The Aluminum PCB Reflow Heater is a compact and efficient device designed for so
 
 1. **Power Supply Connection:** Connect the Aluminum PCB Reflow Heater to a compatible adjustable DC power supply using the smd solder pads for wires.
 
-2. **Temperature Settings:** Set the desired voltage on the dc power supply and measure the temperature using a thermocouple or an infrared thermometer. Ensure that the temperature range is appropriate for the solder paste being used.
+2. **Voltage Setting:** Set the desired voltage on the dc power supply and measure the temperature using a thermocouple or an infrared thermometer. Ensure that the temperature range is appropriate for the solder paste being used.
 
-3. **Preheat:** Allow the device to preheat until it reaches the set temperature. The built-in temperature control system will maintain a stable environment for optimal solder reflow.
+3. **Preheat:** Allow the device to preheat until it reaches the required temperature.
 
-4. **Reflow Process:** Once preheated, carefully place the PCB with solder paste onto the heater surface. Monitor the reflow process through the transparent cover.
+4. **Reflow Process:** Once preheated, carefully place the PCB with solder paste onto the heater surface..
 
 5. **Cool Down:** After completing the reflow process, allow the PCB to cool down naturally before handling.
