@@ -4,12 +4,16 @@
 
 The Aluminum PCB Reflow Heater is a compact and efficient device designed for solder reflow applications, making it an ideal solution for hobbyists, makers, and small-scale electronics enthusiasts. This versatile heater requires only an adjustable DC power supply, providing a cost-effective and user-friendly alternative to traditional reflow ovens.
 
+**You can also check this project out on [PCBWay+](https://www.pcbway.com/project/shareproject/simple_pcb_smd_reflow_heater_23fc7bd7.html)**
+
 ## Features
 
 - **Cheap Design** Only m3 screws and nuts, an adjustable dc power supply and wires are required to build this project.
-- **Cheap PCB** You can get 100 * 100 mm aluminum pcbs very cheaply (mine were provided by [pcbway](https://www.pcbway.com) free of charge)
+- **Cheap PCB** You can get 100 * 100 mm aluminum pcbs very cheaply (mine were provided by [PCBWay](https://www.pcbway.com/project/shareproject/simple_pcb_smd_reflow_heater_23fc7bd7.html) free of charge)
 - **Open source** Hardware licensed under MIT License and creating using KiCad
 
+![pcb image](https://heyjoflyer.win/img/smd-reflow-heater.avif)
+Photo of high quality Aluminum PCB ordered from [PCBWay](https://www.pcbway.com/project/shareproject/simple_pcb_smd_reflow_heater_23fc7bd7.html)!
 
 ## Specifications
 
